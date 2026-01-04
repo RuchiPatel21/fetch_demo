@@ -17,6 +17,11 @@ nav a {
   text-decoration: none;
 }
 
+
 header {
-  background-color: #0a3d62;
+  background-color: #0a3d62;}
+
+#courses {
+  padding: 20px;
+  background-color: #f4f4f4;
 }
